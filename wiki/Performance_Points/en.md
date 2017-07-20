@@ -1,3 +1,8 @@
+[s]: /wiki/shared/Insane-s.png "osu!std"
+[t]: /wiki/shared/Insane-t.png "Taiko"
+[f]: /wiki/shared/Insane-f.png "CTB"
+[m]: /wiki/shared/Insane-m.png "Mania"
+
 <img src="Performance point.jpg" title="fig:Performance point and Performance rank" alt="Performance point and Performance rank" width="200" /> Performance Points (pp) is a ranking metric aiming to be more contextually relevant to a continuous game like osu!. It aims to shift the focus from being on the amount of time played to the **actual skill of the player**.
 
 History
@@ -24,11 +29,11 @@ Performance points are heavily based on map difficulty which is determined by a 
 
 These steps differ a lot per gamemode. Below are more detailed explanations of how each gamemodes works.
 
-| ![](osu.gif "fig:osu.gif") [osu!Standard](Standard "wikilink") |-align="center" |         | (**Aim**^*X* + **Speed**^*X* + **Accuracy**^*X*)^(1/*X*) |
+| ![][s] [osu!Standard](Standard "wikilink") |         | (**Aim**^*X* + **Speed**^*X* + **Accuracy**^*X*)^(1/*X*) |
 |-------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| ![](taiko.gif "fig:taiko.gif") [Taiko](Taiko "wikilink") |-align="center" |               | (**Strain**^*X* + **Accuracy**^*X*)^(1/*X*)              |
-| ![](ctb.gif "fig:ctb.gif") [Catch the Beat](Catch_the_Beat "wikilink") |-align="center" | | **Aim**                                                  |
-| ![](mania.gif "fig:mania.gif") [osu!mania](osu!mania "wikilink") |-align="center" |       | (**Strain**^*X* + **Accuracy**^*X*)^(1/*X*)              |
+| ![][t] [Taiko](Taiko "wikilink")|               | (**Strain**^*X* + **Accuracy**^*X*)^(1/*X*)              |
+| ![][f] [Catch the Beat](Catch_the_Beat "wikilink")| | **Aim**                                                  |
+| ![][m] [osu!mania](osu!mania "wikilink") |       | (**Strain**^*X* + **Accuracy**^*X*)^(1/*X*)              |
 
 -   osu!Standard / Taiko: *X* = 1.1
 -   osu!mania: *X* is currently tuned to 1.1. **Accuracy** is tuned to only represent a relatively small amount of the pp gained, compared to **Strain**, because accuracy already indirectly is represented by **Strain**'s score scaling.
