@@ -31,8 +31,8 @@ These steps differ a lot per gamemode. Below are more detailed explanations of h
 
 | ![][s] [osu!Standard](Standard "wikilink") |-align="center" |         | (**Aim**^*X* + **Speed**^*X* + **Accuracy**^*X*)^(1/*X*) |
 |-----------------------------------------------------------------------|----------------------------------------------------------|
-| ![][t] [Taiko](Taiko "wikilink") |-align="center"|                    | (**Strain**^*X* + **Accuracy**^*X*)^(1/*X*)              |
-| ![][f] [Catch the Beat](Catch_the_Beat "wikilink") |-align="center"|  | **Aim**                                                  |
+| ![][t] [Taiko](Taiko "wikilink") |-align="center" |                   | (**Strain**^*X* + **Accuracy**^*X*)^(1/*X*)              |
+| ![][f] [Catch the Beat](Catch_the_Beat "wikilink") |-align="center" | | **Aim**                                                  |
 | ![][m] [osu!mania](osu!mania "wikilink") |-align="center" |           | (**Strain**^*X* + **Accuracy**^*X*)^(1/*X*)              |
 
 -   osu!Standard / Taiko: *X* = 1.1
