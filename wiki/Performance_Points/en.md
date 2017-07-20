@@ -29,11 +29,11 @@ Performance points are heavily based on map difficulty which is determined by a 
 
 These steps differ a lot per gamemode. Below are more detailed explanations of how each gamemodes works.
 
-| ![][s] [osu!Standard](Standard "wikilink")|-align="center" |         | (**Aim**^*X* + **Speed**^*X* + **Accuracy**^*X*)^(1/*X*) |
+| ![][s] [osu!Standard](Standard "wikilink") |-align="center" |         | (**Aim**^*X* + **Speed**^*X* + **Accuracy**^*X*)^(1/*X*) |
 |-------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| ![][t] [Taiko](Taiko "wikilink")|-align="center"|               | (**Strain**^*X* + **Accuracy**^*X*)^(1/*X*)              |
-| ![][f] [Catch the Beat](Catch_the_Beat "wikilink")|-align="center"| | **Aim**                                                  |
-| ![][m] [osu!mania](osu!mania "wikilink")|-align="center" |       | (**Strain**^*X* + **Accuracy**^*X*)^(1/*X*)              |
+| ![][t] [Taiko](Taiko "wikilink") |-align="center"|               | (**Strain**^*X* + **Accuracy**^*X*)^(1/*X*)              |
+| ![][f] [Catch the Beat](Catch_the_Beat "wikilink") |-align="center"| | **Aim**                                                  |
+| ![][m] [osu!mania](osu!mania "wikilink") |-align="center" |       | (**Strain**^*X* + **Accuracy**^*X*)^(1/*X*)              |
 
 -   osu!Standard / Taiko: *X* = 1.1
 -   osu!mania: *X* is currently tuned to 1.1. **Accuracy** is tuned to only represent a relatively small amount of the pp gained, compared to **Strain**, because accuracy already indirectly is represented by **Strain**'s score scaling.
